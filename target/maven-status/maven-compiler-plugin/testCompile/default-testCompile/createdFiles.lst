@@ -1,0 +1,16 @@
+Pages\HoverPage.class
+Pages\JavaExecutorWaitElementPage.class
+TestCases\BaseClassTests.class
+Pages\iframe.class
+TestCases\CombinedTests.class
+TestCases\launcingBrowser.class
+Pages\formvalidations.class
+utils\ConfigReader.class
+TestCases\Models.class
+Pages\BaseclassPages.class
+TestCases\JavaExecutorWaitElement.class
+TestCases\SliderTest.class
+Pages\ModelsPage.class
+TestCases\Popups.class
+Pages\popuppage.class
+Pages\SliderPage.class

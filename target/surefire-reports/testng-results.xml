@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-09T10:45:47 IST" name="Suite" finished-at="2025-09-09T10:47:21 IST" duration-ms="94042">
+    <groups>
+    </groups>
+    <test started-at="2025-09-09T10:45:47 IST" name="Test" finished-at="2025-09-09T10:47:21 IST" duration-ms="94042">
+      <class name="TestCases.JavaExecutorWaitElement">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.JavaExecutorWaitElement@4ec4f3a0]" started-at="2025-09-09T10:45:47 IST" name="setup" finished-at="2025-09-09T10:46:02 IST" duration-ms="14451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestJavScriptDelay()[pri:0, instance:TestCases.JavaExecutorWaitElement@4ec4f3a0]" started-at="2025-09-09T10:46:02 IST" name="TestJavScriptDelay" finished-at="2025-09-09T10:46:14 IST" duration-ms="12154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestJavScriptDelay -->
+      </class> <!-- TestCases.JavaExecutorWaitElement -->
+      <class name="TestCases.launcingBrowser">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.launcingBrowser@223191a6]" started-at="2025-09-09T10:46:14 IST" name="setup" finished-at="2025-09-09T10:46:19 IST" duration-ms="5674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="form()[pri:1, instance:TestCases.launcingBrowser@223191a6]" started-at="2025-09-09T10:46:19 IST" name="form" finished-at="2025-09-09T10:46:24 IST" duration-ms="4091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- form -->
+      </class> <!-- TestCases.launcingBrowser -->
+      <class name="TestCases.Popups">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Popups@6069db50]" started-at="2025-09-09T10:46:59 IST" name="setup" finished-at="2025-09-09T10:47:03 IST" duration-ms="4047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="popuptest()[pri:0, instance:TestCases.Popups@6069db50]" started-at="2025-09-09T10:47:03 IST" name="popuptest" finished-at="2025-09-09T10:47:05 IST" duration-ms="1797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popuptest -->
+      </class> <!-- TestCases.Popups -->
+      <class name="TestCases.CombinedTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.CombinedTests@49139829]" started-at="2025-09-09T10:46:24 IST" name="setup" finished-at="2025-09-09T10:46:29 IST" duration-ms="5723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Hovertesting()[pri:0, instance:TestCases.CombinedTests@49139829]" started-at="2025-09-09T10:46:29 IST" name="Hovertesting" description="Its a Hover Over Element Test" finished-at="2025-09-09T10:46:30 IST" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hovertesting -->
+        <test-method signature="adstest()[pri:0, instance:TestCases.CombinedTests@49139829]" started-at="2025-09-09T10:46:30 IST" name="adstest" description="Its ads Test" finished-at="2025-09-09T10:46:36 IST" duration-ms="5836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adstest -->
+        <test-method signature="dragdrop()[pri:0, instance:TestCases.CombinedTests@49139829]" started-at="2025-09-09T10:46:36 IST" name="dragdrop" description="I am a Drag and Drop Test" finished-at="2025-09-09T10:46:38 IST" duration-ms="1887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragdrop -->
+        <test-method signature="iframetest()[pri:0, instance:TestCases.CombinedTests@49139829]" started-at="2025-09-09T10:46:38 IST" name="iframetest" description="Iframe TESTing" finished-at="2025-09-09T10:46:41 IST" duration-ms="3484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iframetest -->
+        <test-method signature="windowhandling()[pri:0, instance:TestCases.CombinedTests@49139829]" started-at="2025-09-09T10:46:42 IST" name="windowhandling" description="WindowHandling" finished-at="2025-09-09T10:46:48 IST" duration-ms="6401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowhandling -->
+        <test-method signature="windowhandling2()[pri:0, instance:TestCases.CombinedTests@49139829]" started-at="2025-09-09T10:46:48 IST" name="windowhandling2" description="WindowHandling2" finished-at="2025-09-09T10:46:52 IST" duration-ms="4003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowhandling2 -->
+      </class> <!-- TestCases.CombinedTests -->
+      <class name="TestCases.SliderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.SliderTest@9597028]" started-at="2025-09-09T10:46:52 IST" name="setup" finished-at="2025-09-09T10:46:58 IST" duration-ms="5867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="sliderTest()[pri:0, instance:TestCases.SliderTest@9597028]" started-at="2025-09-09T10:46:58 IST" name="sliderTest" finished-at="2025-09-09T10:46:59 IST" duration-ms="1534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderTest -->
+      </class> <!-- TestCases.SliderTest -->
+      <class name="TestCases.Models">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.Models@4efbca5a]" started-at="2025-09-09T10:47:05 IST" name="setup" finished-at="2025-09-09T10:47:12 IST" duration-ms="6338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_models()[pri:0, instance:TestCases.Models@4efbca5a]" started-at="2025-09-09T10:47:12 IST" name="TC_models" finished-at="2025-09-09T10:47:21 IST" duration-ms="9553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_models -->
+      </class> <!-- TestCases.Models -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

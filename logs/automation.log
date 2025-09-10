@@ -1,0 +1,360 @@
+2025-08-20 18:29:15 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-20 18:35:06 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-20 18:36:15 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-20 18:40:01 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-20 18:43:18 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-20 18:46:15 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-20 18:50:11 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-20 18:52:11 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 16:57:25 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 16:58:41 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:01:58 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:02:54 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:23:52 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:27:13 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:43:21 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:44:30 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:45:28 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:49:58 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:52:08 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 17:53:01 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 18:34:30 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 18:56:44 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-21 18:56:47 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-21 18:56:48 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-23 13:44:31 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-23 13:44:36 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-23 13:44:37 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-23 13:52:53 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-23 13:52:56 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-23 13:52:57 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-23 13:58:31 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-23 13:58:36 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-23 13:58:37 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-23 13:58:37 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-08-23 13:58:38 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-08-23 13:58:39 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-08-23 13:58:39 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-08-23 17:06:07 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:08:10 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:10:07 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:12:57 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:13:44 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:16:37 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:19:01 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:20:16 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:26:33 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:48:34 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:48:34 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:48:34 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:51:31 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:54:25 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:57:33 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 17:59:36 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 18:02:45 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:11:51 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:13:57 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:17:34 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:21:49 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:22:47 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:29:29 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:36:08 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:41:15 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-23 20:43:29 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-24 07:51:08 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-24 07:52:50 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 07:56:02 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:00:10 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:01:38 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:02:17 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:03:49 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:05:46 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:07:32 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:11:12 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:13:16 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 08:14:16 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 17:01:34 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 17:04:37 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 17:06:38 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 17:09:43 [main] INFO  TestCases.Popups - loading webpage
+2025-08-24 17:09:46 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-24 17:09:47 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-24 17:09:48 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-24 17:09:48 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-08-24 17:22:50 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-24 17:29:11 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-24 17:30:01 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-24 17:30:01 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-25 09:42:17 [main] INFO  TestCases.Calender - loading webpage
+2025-08-25 09:43:12 [main] INFO  TestCases.Calender - loading webpage
+2025-08-30 08:10:04 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-30 08:10:26 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-30 08:10:30 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-30 08:10:32 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-30 08:10:32 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-08-30 08:10:33 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-08-30 08:10:33 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-08-30 08:10:34 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-08-30 08:10:37 [main] INFO  TestCases.Calender - loading webpage
+2025-08-30 08:10:44 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-30 08:10:52 [main] INFO  TestCases.Popups - loading webpage
+2025-08-30 08:10:55 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-30 08:10:56 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-30 08:10:56 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-30 08:10:57 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-08-30 08:16:07 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-30 08:16:54 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-30 08:16:57 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-30 08:16:59 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-30 08:16:59 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-08-30 08:17:00 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-08-30 08:17:00 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-08-30 08:17:00 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-08-30 08:17:02 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-30 08:17:07 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-30 08:17:10 [main] INFO  TestCases.Popups - loading webpage
+2025-08-30 08:17:13 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-30 08:17:13 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-30 08:17:13 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-30 08:17:14 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-08-30 08:17:55 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-30 08:17:58 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-30 08:17:59 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-30 08:17:59 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-08-30 08:18:00 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-08-30 08:18:00 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-08-30 08:18:00 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-08-30 08:18:02 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-30 08:18:06 [main] INFO  TestCases.Popups - loading webpage
+2025-08-30 08:18:09 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-30 08:18:09 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-30 08:18:09 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-30 08:18:09 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-08-30 08:19:50 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-30 08:20:37 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-30 08:20:41 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-30 08:20:42 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-30 08:20:42 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-08-30 08:20:43 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-08-30 08:20:44 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-08-30 08:20:44 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-08-30 08:20:47 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-30 08:20:55 [main] INFO  TestCases.Popups - loading webpage
+2025-08-30 08:20:58 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-30 08:20:59 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-30 08:20:59 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-30 08:21:00 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-08-30 15:20:33 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-30 15:21:21 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-30 15:21:25 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-30 15:21:26 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-30 15:21:26 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-08-30 15:21:28 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-08-30 15:21:28 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-08-30 15:21:28 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-08-30 15:21:32 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-30 15:21:39 [main] INFO  TestCases.Popups - loading webpage
+2025-08-30 15:21:42 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-30 15:21:43 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-30 15:21:43 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-30 15:21:44 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-08-30 15:24:01 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-30 15:24:19 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-30 15:24:23 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-30 15:24:24 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-30 15:24:24 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-08-30 15:24:25 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-08-30 15:24:26 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-08-30 15:24:26 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-08-30 15:24:29 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-30 15:24:37 [main] INFO  TestCases.Popups - loading webpage
+2025-08-30 15:24:40 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-30 15:24:41 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-30 15:24:41 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-30 15:24:42 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-08-30 16:42:14 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-30 16:42:33 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-30 16:42:37 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-30 16:42:45 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-30 16:42:53 [main] INFO  TestCases.Popups - loading webpage
+2025-08-30 16:42:56 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-30 16:42:57 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-30 16:42:57 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-30 16:42:58 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-08-30 16:45:02 [main] INFO  TestCases.Models - loading webpage
+2025-08-30 17:02:51 [main] INFO  TestCases.Models - loading webpage
+2025-08-30 17:03:38 [main] INFO  TestCases.Models - loading webpage
+2025-08-30 17:05:17 [main] INFO  TestCases.Models - loading webpage
+2025-08-30 17:10:23 [main] INFO  TestCases.Models - loading webpage
+2025-08-30 17:17:10 [main] INFO  TestCases.Models - loading webpage
+2025-08-30 17:18:52 [main] INFO  TestCases.Models - loading webpage
+2025-08-30 17:21:04 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-08-30 17:21:22 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-08-30 17:21:25 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-08-30 17:21:26 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-08-30 17:21:26 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-08-30 17:21:27 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-08-30 17:21:27 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-08-30 17:21:27 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-08-30 17:21:29 [main] INFO  TestCases.SliderTest - loading webpage
+2025-08-30 17:21:35 [main] INFO  TestCases.Popups - loading webpage
+2025-08-30 17:21:38 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-08-30 17:21:39 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-08-30 17:21:39 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-08-30 17:21:41 [main] INFO  TestCases.Models - loading webpage
+2025-09-01 19:34:59 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 19:35:44 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 19:38:06 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 19:38:09 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 19:39:05 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 19:39:08 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 19:49:54 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 19:49:57 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 20:20:33 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 20:20:40 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 20:23:22 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 20:23:28 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 20:23:29 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-01 20:36:05 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 20:36:13 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 20:39:23 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 20:39:29 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 20:58:09 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 20:58:16 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 20:58:17 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-01 20:59:27 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 20:59:33 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 20:59:33 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-01 21:02:55 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-09-01 21:03:15 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-09-01 21:03:22 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-09-01 21:03:23 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-09-01 21:03:23 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-09-01 21:03:24 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-09-01 21:03:24 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-09-01 21:03:24 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-09-01 21:03:28 [main] INFO  TestCases.SliderTest - loading webpage
+2025-09-01 21:03:37 [main] INFO  TestCases.Popups - loading webpage
+2025-09-01 21:03:42 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-09-01 21:03:43 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-09-01 21:03:45 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-09-01 21:03:45 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-09-01 21:03:49 [main] INFO  TestCases.Models - loading webpage
+2025-09-01 21:04:04 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 21:04:12 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 21:04:14 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-01 21:20:53 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 21:22:18 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-01 21:22:24 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-01 21:22:24 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-06 08:51:58 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 08:52:02 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-06 08:52:02 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-06 08:59:41 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:01:18 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:20:42 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:23:08 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:24:57 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:25:42 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:26:53 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:27:49 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:31:00 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 09:31:39 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 13:34:58 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 13:50:41 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 13:51:08 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 13:51:08 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 13:51:23 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 14:09:54 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 14:14:51 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-06 14:16:31 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 07:45:12 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 07:48:09 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 07:50:19 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 08:15:32 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 08:23:34 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 08:24:54 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 08:24:58 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-07 08:24:59 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-07 08:32:21 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 10:05:09 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 10:16:28 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 10:20:00 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 10:38:42 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 10:40:05 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 10:43:13 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 10:44:07 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 11:45:42 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 11:48:24 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 11:52:03 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 11:53:58 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 11:57:18 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 12:00:25 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 12:04:48 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 12:09:12 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 12:15:47 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:05:05 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:05:10 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-07 14:05:10 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-07 14:12:25 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:18:04 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:21:21 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:23:24 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:26:51 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:28:19 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:29:56 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:38:58 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:44:45 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-09-07 14:45:03 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-09-07 14:45:07 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-09-07 14:45:08 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-09-07 14:45:09 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-09-07 14:45:10 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-09-07 14:45:11 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-09-07 14:45:11 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-09-07 14:45:14 [main] INFO  TestCases.HoverTest - loading webpage
+2025-09-07 14:45:19 [main] INFO  TestCases.HoverTest - Calling method inside page
+2025-09-07 14:45:19 [main] INFO  TestCases.HoverTest - Test is completed
+2025-09-07 14:45:45 [main] INFO  TestCases.SliderTest - loading webpage
+2025-09-07 14:45:52 [main] INFO  TestCases.Popups - loading webpage
+2025-09-07 14:45:56 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-09-07 14:45:57 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-09-07 14:45:57 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-09-07 14:45:58 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-09-07 14:46:02 [main] INFO  TestCases.Models - loading webpage
+2025-09-08 16:19:26 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-09-08 16:19:45 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-09-08 16:19:48 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-09-08 16:19:49 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-09-08 16:19:49 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-09-08 16:19:50 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-09-08 16:19:50 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-09-08 16:19:50 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-09-08 16:19:52 [main] INFO  TestCases.CombinedTests - loading webpage
+2025-09-08 16:19:56 [main] INFO  TestCases.CombinedTests - Calling method inside page
+2025-09-08 16:19:56 [main] INFO  TestCases.CombinedTests - Test is completed
+2025-09-08 16:20:16 [main] INFO  TestCases.SliderTest - loading webpage
+2025-09-08 16:20:23 [main] INFO  TestCases.Popups - loading webpage
+2025-09-08 16:20:25 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-09-08 16:20:26 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-09-08 16:20:27 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-09-08 16:20:28 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-09-08 16:20:30 [main] INFO  TestCases.Models - loading webpage
+2025-09-09 10:45:58 [main] INFO  TestCases.JavaExecutorWaitElement - loading webpage
+2025-09-09 10:46:17 [main] INFO  TestCases.launcingBrowser - loading webpage
+2025-09-09 10:46:20 [main] INFO  TestCases.launcingBrowser - form is clicked
+2025-09-09 10:46:21 [main] INFO  TestCases.launcingBrowser - name and password is filled
+2025-09-09 10:46:21 [main] INFO  TestCases.launcingBrowser - Color is selecteed
+2025-09-09 10:46:23 [main] INFO  TestCases.launcingBrowser - email is entered
+2025-09-09 10:46:23 [main] INFO  TestCases.launcingBrowser - Data is submit
+2025-09-09 10:46:24 [main] INFO  TestCases.launcingBrowser - Alertaccepted Succesfully
+2025-09-09 10:46:27 [main] INFO  TestCases.CombinedTests - loading webpage
+2025-09-09 10:46:30 [main] INFO  TestCases.CombinedTests - Calling method inside page
+2025-09-09 10:46:30 [main] INFO  TestCases.CombinedTests - Test is completed
+2025-09-09 10:46:55 [main] INFO  TestCases.SliderTest - loading webpage
+2025-09-09 10:47:01 [main] INFO  TestCases.Popups - loading webpage
+2025-09-09 10:47:04 [main] INFO  TestCases.Popups - popup pag is loaded
+2025-09-09 10:47:04 [main] INFO  TestCases.Popups - Alert ox is Clicked
+2025-09-09 10:47:05 [main] INFO  TestCases.Popups - Confirm alert is Handled
+2025-09-09 10:47:05 [main] INFO  TestCases.Popups - Prompt alert is Handled
+2025-09-09 10:47:07 [main] INFO  TestCases.Models - loading webpage
